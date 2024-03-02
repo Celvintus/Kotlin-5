@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <string name='title0'>Отрицание</string>
+    <string name='title1'>Гнев</string>
+    <string name='title2'>Торг</string>
+    <string name='title3'>Депрессия</string>
+    <string name='title4'>Смирение</string>
+    <string name='title5'>Выходной!!!</string>
+    <string name='title6'>Конец неизбежен</string>
+    <string name='desc0'>Понедельник-день-бездельник.</string>
+    <string name='desc1'>Вторник-повторник.</string>
+    <string name='desc2'>Среда-тамада.</string>
+    <string name='desc3'>Четверг-я заботы все отверг.</string>
+    <string name='desc4'>Пятница-пьяница.</string>
+    <string name='desc5'>Суббота-безработа.</string>
+    <string name='desc6'>Воскресенье-день веселья!</string>
+    <string name="expand_button"></string>
+    <string name="days_30">30 Days of Cats</string>
+    <string name="made">Made with</string>
+    <string name="jetpack">JetPack Compose</string>
+</resources>
